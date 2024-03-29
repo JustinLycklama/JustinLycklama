@@ -9,7 +9,8 @@
 
 I love the creative side of coding. That means spending time on fun projects, exploring what is possible.
 
-<br><br>
+<br>
+
 # Games
 
 In [Escape from Io](https://justinlycklama.github.io/Escape-From-Io/), manage a variety of robots to navigate though a rocky terrain. 
@@ -17,7 +18,8 @@ Delegate tasks and optimize robot efficiency to escape the planet as fast as pos
 
 https://github.com/JustinLycklama/JustinLycklama/assets/5324852/e162ea50-f5ee-420c-8f04-76f8697291d9
 
-<br><br>
+<br>
+
 # User Interfaces
 
 As a software engineer I also appreciate modularity, and my experience in front end brings that to user interfaces. 
@@ -26,7 +28,8 @@ Unity lends itself to manually placing UI elements into a scene and scaling to s
 
 <img height=300 src="https://github.com/justinlycklama/UnityReactiveGrid/blob/master/ReactiveGridDemo.gif" style="margin: 50px;">
 
-<br><br>
+<br>
+
 # Computer Graphics
 
 I have not been able to explore shaders professionaly, but I think they are really cool!
