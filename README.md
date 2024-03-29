@@ -8,9 +8,13 @@
 </video>
 
 
-https://github.com/justinlycklama/Escape-From-Io/blob/master/Static-Site-Jekyll/assets/carousel/Defend.webm
+## Hobby Projects
+I love the creative side of coding, and that means spending time on fun projects. 
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://github.com/justinlycklama/Escape-From-Io/blob/master/Static-Site-Jekyll/assets/carousel/Defend.webm)
+### Escape from Io
+
+https://github.com/JustinLycklama/JustinLycklama/assets/5324852/6ef4d37c-5dec-4dc4-9764-25424dc39d77
+
 
 
                     
