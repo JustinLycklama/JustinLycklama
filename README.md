@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=90&text=Creative%20Code&fontAlign=60&fontAlignY=60&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=90&text=Creative%20Code&fontAlign=50&fontAlignY=60&color=gradient)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="45" height="45" />
