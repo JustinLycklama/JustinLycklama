@@ -41,6 +41,12 @@ Diving in to [Metal](https://developer.apple.com/metal/), Apple's shader languag
   <img src="https://github.com/justinlycklama/ConwaysCube/blob/main/conwaysCube.gif" style="max-width: 50%; display: inline-block;" height=300>
 </div>
 
+# Apple Specifics
+
+Spending years in iOS development, I like to dive into the device specific features of apple devices.
+
+Playing around with [Sirikit and shortcuts](https://medium.com/tribalscale/sharing-data-with-siri-and-realm-646e7b50c2bb), I made a simple app to remember your location when you say a certin phrase, "That Looks Cool".
+
 
 <!--
 https://medium.com/tribalscale/sharing-data-with-siri-and-realm-646e7b50c2bb
