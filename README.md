@@ -45,12 +45,11 @@ Diving in to [Metal](https://developer.apple.com/metal/), Apple's shader languag
 
 Spending years in iOS development, I like to dive into the device specific features of apple devices.
 
-Playing around with [Sirikit and shortcuts](https://medium.com/tribalscale/sharing-data-with-siri-and-realm-646e7b50c2bb), I made a simple app to remember your location when you say a certin phrase, "That Looks Cool".
+Playing around with [Sirikit, App groups and Shortcuts](https://medium.com/tribalscale/sharing-data-with-siri-and-realm-646e7b50c2bb), I made a simple app to remember your location when you say a certin phrase, "That Looks Cool".
 
+Open the app later to see your saved locations, and export them into google maps or other platforms
 
-<!--
-https://medium.com/tribalscale/sharing-data-with-siri-and-realm-646e7b50c2bb
--->
+![ThatLooksCool](https://github.com/JustinLycklama/JustinLycklama/assets/5324852/c48c4c48-f4f5-4bf6-b1a2-29dd341804d4)
 
 <br><br>
 ## Commit Snake 🐍
