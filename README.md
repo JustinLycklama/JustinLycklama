@@ -7,14 +7,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" />
 </p>
 
-I love the creative side of coding. That means spending time on fun projects, exploring what is possible.
+I love the creative side of coding. This means exploring and expanding my own technical limits by trying to create fun things.
 
 <br>
 
 # Games
 
 In [Escape from Io](https://justinlycklama.github.io/Escape-From-Io/), manage a variety of robots to navigate though a rocky terrain. 
-Delegate tasks and optimize robot efficiency to escape the planet as fast as possible! ( UI Designers, please help... )
+
+Delegate tasks and optimize robot efficiency to escape the planet as fast as possible. ( UI Designer wanted 😅 )
 
 https://github.com/JustinLycklama/JustinLycklama/assets/5324852/e162ea50-f5ee-420c-8f04-76f8697291d9
 
@@ -22,9 +23,9 @@ https://github.com/JustinLycklama/JustinLycklama/assets/5324852/e162ea50-f5ee-42
 
 # User Interfaces
 
-As a software engineer I also appreciate modularity, and my experience in front end brings that to user interfaces. 
+As a Software Engineer I also appreciate modularity, and my experience in front end brings that to User Interfaces. 
 
-Unity lends itself to manually placing UI elements into a scene and scaling to screen size, but coming from an iOS background I love creating individual components that can be reused universally
+Coming from an iOS background, I love creating components that adapt and animate to any set of input.
 
 <img height=300 src="https://github.com/justinlycklama/UnityReactiveGrid/blob/master/ReactiveGridDemo.gif" style="margin: 50px;">
 
@@ -32,9 +33,9 @@ Unity lends itself to manually placing UI elements into a scene and scaling to s
 
 # Computer Graphics
 
-I have not been able to explore shaders professionaly, but I think they are really cool!
+I have not been able to explore shaders professionaly... but I think they are really cool!
 
-Diving in to [Metal](https://developer.apple.com/metal/), Apple's shader language, I created a 3d version of [Conways game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+Diving in to [Metal](https://developer.apple.com/metal/) (Apple's shader language) I created a 3d version of [Conways game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 <div style="display:flex;" width="400" height="300">
   <img src="https://github.com/justinlycklama/ConwaysCube/blob/main/conwaysFlatCube.gif" style="max-width: 50%; display: inline-block;" height=300>
