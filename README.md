@@ -43,9 +43,6 @@ Diving in to [Metal](https://developer.apple.com/metal/) (Apple's shader languag
 </div>
 
 # Apple Specifics
-
-Spending years in iOS development, I like to dive into the device specific features of apple devices.
-
 Playing around with [Sirikit, App groups and Shortcuts](https://medium.com/tribalscale/sharing-data-with-siri-and-realm-646e7b50c2bb), I made a simple app to remember your location when you say a certin phrase, "That Looks Cool".
 
 Open the app later to see your saved locations, and export them into google maps or other platforms
