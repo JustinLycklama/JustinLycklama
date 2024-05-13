@@ -15,7 +15,7 @@ I love the creative side of coding. This means exploring and expanding my own te
 
 In [Escape from Io](https://justinlycklama.github.io/Escape-From-Io/), manage a variety of robots to navigate though a rocky terrain. 
 
-Delegate tasks and optimize robot efficiency to escape the planet as fast as possible. ( UI Designer wanted 😅 )
+Delegate tasks and optimize robot efficiency to escape the planet as fast as possible.
 
 https://github.com/JustinLycklama/JustinLycklama/assets/5324852/e162ea50-f5ee-420c-8f04-76f8697291d9
 
@@ -23,9 +23,9 @@ https://github.com/JustinLycklama/JustinLycklama/assets/5324852/e162ea50-f5ee-42
 
 # User Interfaces
 
-As a Software Engineer I also appreciate modularity, and my experience in front end brings that to User Interfaces. 
+As a Software Engineer I appreciate modularity. I love creating components that adapt and animate to any set of input.
 
-Coming from an iOS background, I love creating components that adapt and animate to any set of input.
+Here's a Unity component that can animate cross-row changes for any sorted list of elements.
 
 <img height=300 src="https://github.com/justinlycklama/UnityReactiveGrid/blob/master/ReactiveGridDemo.gif" style="margin: 50px;">
 
@@ -33,7 +33,7 @@ Coming from an iOS background, I love creating components that adapt and animate
 
 # Computer Graphics
 
-I have not been able to explore shaders professionaly... but I think they are really cool!
+I had no reason to make shaders professionaly... but I think they are really cool!
 
 Diving in to [Metal](https://developer.apple.com/metal/) (Apple's shader language) I created a 3d version of [Conways game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
@@ -45,7 +45,7 @@ Diving in to [Metal](https://developer.apple.com/metal/) (Apple's shader languag
 # Apple Specifics
 Playing around with [Sirikit, App groups and Shortcuts](https://medium.com/tribalscale/sharing-data-with-siri-and-realm-646e7b50c2bb), I made a simple app to remember your location when you say a certin phrase, "That Looks Cool".
 
-Open the app later to see your saved locations, and export them into google maps or other platforms
+Open the app later to see your saved locations, and export them into google maps.
 
 ![ThatLooksCool](https://github.com/JustinLycklama/JustinLycklama/assets/5324852/c48c4c48-f4f5-4bf6-b1a2-29dd341804d4)
 
