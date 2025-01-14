@@ -25,7 +25,7 @@ https://github.com/JustinLycklama/JustinLycklama/assets/5324852/e162ea50-f5ee-42
 
 As a Software Engineer I appreciate modularity. I love UI elements that adapt and animate to any set of input.
 
-Here's a Unity component that can animate cross-row changes for any sorted list of elements.
+This Unity component animates cross-row changes for any sorted list of elements.
 
 <img height=300 src="https://github.com/justinlycklama/UnityReactiveGrid/blob/master/ReactiveGridDemo.gif" style="margin: 50px;">
 
@@ -35,7 +35,7 @@ Here's a Unity component that can animate cross-row changes for any sorted list 
 
 I've had no reason to make shaders professionaly... but I think they are really cool!
 
-Diving in to [Metal](https://developer.apple.com/metal/) (Apple's shader language) I created a 3d version of [Conways game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+Working with [Metal](https://developer.apple.com/metal/) (Apple's shader language) I created a 3d version of [Conways game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 <div style="display:flex;" width="400" height="300">
   <img src="https://github.com/justinlycklama/ConwaysCube/blob/main/conwaysFlatCube.gif" style="max-width: 50%; display: inline-block;" height=300>
